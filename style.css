@@ -1,0 +1,126 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Taha Aslam Khan | Member 2</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header class="site-header">
+        <h1>Taha Aslam Khan</h1>
+        <p>Welcome to My Personal Profile</p>
+    </header>
+
+    <!-- Navigation Menu -->
+    <nav class="navbar">
+        <a href="index.html">Home</a>
+        <a href="member1.html">Member 1</a>
+        <a href="member2.html" class="active">Member 2</a>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="container">
+
+        <!-- Profile Section -->
+        <section class="profile-section">
+            <h2>About Me</h2>
+
+            <div class="profile-card">
+
+                <div class="profile-avatar">TK</div>
+
+                <h3>Taha Aslam Khan</h3>
+                <p class="role">Group Member 2</p>
+
+                <div class="profile-info">
+                    <p>
+                        <strong>Roll Number:</strong>
+                        2601067
+                    </p>
+
+                    <p>
+                        <strong>Course:</strong>
+                        BS Artificial Intelligence (BS AI)
+                    </p>
+
+                    <p>
+                        <strong>Semester:</strong>
+                        1st
+                    </p>
+
+                    <p>
+                        <strong>University:</strong>
+                        Air University
+                    </p>
+                </div>
+
+                <p class="bio">
+                    Hello! My name is Taha Aslam Khan.
+                    I am a student of BS Artificial Intelligence
+                    at Air University. My interests include
+                    reading and gaming. I am learning HTML,
+                    CSS, and GitHub as part of my web development
+                    project.
+                </p>
+
+            </div>
+        </section>
+
+        <!-- Skills Section -->
+        <section class="content-card">
+            <h2>My Skills</h2>
+
+            <ul class="details-list">
+                <li>HTML - Creating web pages</li>
+                <li>CSS - Styling websites</li>
+                <li>GitHub - Managing and sharing projects</li>
+            </ul>
+        </section>
+
+        <!-- Hobbies Section -->
+        <section class="content-card">
+            <h2>My Hobbies</h2>
+
+            <ul class="details-list">
+                <li>Reading</li>
+                <li>Gaming</li>
+            </ul>
+        </section>
+
+        <!-- Group Information -->
+        <section class="content-card">
+            <h2>Our Group</h2>
+
+            <p>
+                <strong>Member 1:</strong> HASSAN IHSAN
+            </p>
+
+            <p>
+                <strong>Member 2:</strong> Taha Aslam Khan
+            </p>
+
+            <p>
+                We are working together on the
+                Group-Website project using HTML, CSS,
+                Git, and GitHub.
+            </p>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <p>
+            &copy; 2026 Group-Website |
+            Taha Aslam Khan
+        </p>
+    </footer>
+
+</body>
+</html>
